@@ -1,2 +1,2 @@
 # demo
-un,e démo de git
+une démo de git
